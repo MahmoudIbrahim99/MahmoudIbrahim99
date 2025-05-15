@@ -82,11 +82,4 @@ I'm passionate about **quality assurance**, **test automation**, and **continuou
 
 ---
 
-## 💬 Languages
-
-- 🇪🇬 Arabic: Native  
-- 🇬🇧 English: Very Good
-
----
-
 > 🧠 I'm always open to new opportunities, collaborations, or just a tech talk! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-ibrahim-498418234).
