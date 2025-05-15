@@ -6,7 +6,7 @@
 
 ---
 
-![Testing Illustration](https://raw.githubusercontent.com/MahmoudIbrahim99/MahmoudIbrahim99/main/assets/testing-banner.gif)
+![My Custom Banner](assets/28defef5-61bd-4232-8f7a-4cbf828d66a5.png)
 
 ---
 
