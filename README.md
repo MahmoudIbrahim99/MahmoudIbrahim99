@@ -6,7 +6,7 @@
 
 ---
 
-![My Custom Banner](assets/28defef5-61bd-4232-8f7a-4cbf828d66a5.png)
+![Testing Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1b4b2b2b5f3a3dbf48b3a1b09.gif)
 
 ---
 
