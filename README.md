@@ -6,6 +6,10 @@
 
 ---
 
+![Testing Illustration](https://raw.githubusercontent.com/MahmoudIbrahim99/MahmoudIbrahim99/main/assets/testing-banner.gif)
+
+---
+
 ## 🧪 About Me
 
 I'm an ISTQB Certified Software Tester with hands-on experience in both **manual** and **automated testing**.  
